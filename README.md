@@ -2,13 +2,13 @@
 
 Hardware Informer is a Project written in Assembly Language and provides following lower-level hardware information:
 
-a) Floppy Disk presence
-b) Math Processor presence
-c) DMA presence
-d) Caps-Lock status
-e) Diskette Drives number presence
-f) Video Mode which is running
-g) CPU Clock Time
+* Floppy Disk presence
+* Math Processor presence
+* DMA presence
+* Caps-Lock status
+* Diskette Drives number presence
+* Video Mode which is running
+* CPU Clock Time
 
 Tools used:
 -----------
