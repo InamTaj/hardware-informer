@@ -1,1 +1,1 @@
-# playground
+Hardware Informer
